@@ -1,6 +1,6 @@
-### Hi there 👋, I am Gabriele
+### Hi there 👋, I am Gabriele 👨🏻
 
-I'm 19 🧑‍🎓, I'm currently studying computer engeneering 💻 at Sapienza University of Rome.
+I'm 19, I'm currently studying 🎓 computer engeneering 💻 at Sapienza University of Rome.
 
 <!--
 **cappee/cappee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
