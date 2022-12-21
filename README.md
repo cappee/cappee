@@ -1,4 +1,4 @@
-### Hi there 👋, I am Gabriele 👨🏻
+### Hi there 👋, I am Gabriele
 
 I'm 19, I'm currently studying 🎓 computer engeneering 💻 at Sapienza University of Rome.
 
