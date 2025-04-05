@@ -5,6 +5,7 @@ I'm currently pursuing my Bachelor's degree 🎓 in Computer Engineering 💻 at
 I also spent a semester abroad 🌍 as an Erasmus student at the Universitat Politècnica de València 🇪🇸.
 
 Throughout my studies, I’ve collected many exercises 📝 assigned by professors and shared them in public repositories — hoping they might help other students too:
+  - [Fundamentals of Communication and Internet](https://gist.github.com/cappee/ce9e2a90824b0f175fbf6d6a68fdac72)
   - [Software Design](https://github.com/cappee/progsoft)
   - [Computing Systems](https://github.com/cappee/sc)
 
