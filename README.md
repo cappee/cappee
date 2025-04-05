@@ -1,13 +1,21 @@
-### Hi there 👋, I am Gabriele
+### Hi there 👋, I’m Gabriele
+I was born in 2003 in Rome 🇮🇹, where I currently live.
 
-I was born in 2003 in Rome, currently i live in Rome.
+I'm currently pursuing my Bachelor's degree 🎓 in Computer Engineering 💻 at Sapienza University of Rome 🏛️.
+I also spent a semester abroad 🌍 as an Erasmus student at the Universitat Politècnica de València 🇪🇸.
 
-I'm currently graduating 🎓 in computer engeneering 💻 at Sapienza University of Rome🏛️.
+Throughout my studies, I’ve collected many exercises 📝 assigned by professors and shared them in public repositories — hoping they might help other students too:
+  - [Software Design](https://github.com/cappee/progsoft)
+  - [Computing Systems](https://github.com/cappee/sc)
 
-During my course of study I collected in some repos many exercises 📝 assigned by teachers hoping they can be useful to other people.
+I’m currently working 🚧 on a web-based project for a university exam, and planning another project for my thesis🔍, which is still being defined.
 
-- [Progettazione del software](https://github.com/cappee/progsoft)
-- [Sistemi di calcolo](https://github.com/cappee/sc)
+Along the way, I’ve studied and worked with:
+  - Java☕
+  - Python (also with OOP)🐍
+  - C⚙️
+  - Assembly (IA-32)🧬
+  - SQL🗄️
 
 <!--
 **cappee/cappee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
